@@ -16,12 +16,12 @@
 - **CSS3**: To create a visually appealing and responsive design.
 - **JavaScript**: For interactivity and dynamic content loading.
 
-##👨‍💻 Author
-#Sutharsan
+## 👨‍💻 Author
+# Sutharsan
 
 - **LinkedIn:** [Sutharsan](https://www.linkedin.com/in/ssutharsan20/)
 - **Mail:** [Sutharsan](mailto:s.sutharsan.201104@gmail.com)
 - **Blog:** [Captured Chronicles](https://pixelpioneersuthar.blogspot.com/)
   
-##📅 Status
+## 📅 Status
 -**🚧 Currently Under Development: Stay tuned for the official launch!**
